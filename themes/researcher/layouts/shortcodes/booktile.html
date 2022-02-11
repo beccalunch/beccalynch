@@ -1,0 +1,14 @@
+<div id="booktile" style="width:60%;border-radius:25px;border: 2px solid #D3D3D3;padding: 10px; overflow: hidden;">
+    <div class="column" style="float:left;width:70%;">
+        <big>
+            <a href="{{ .Get "link" }}">{{ .Get "title" }}</b>
+        </big>
+        <br>
+        <i><a href="{{ .Get "author_link" }}">{{ .Get "author" }}</b></i>
+    </div>
+    <div class="column" style="float:left;width:20%">
+        <img src="{{ .Get "img_src" }}">
+    </div>
+</div>
+<br>
+<br>

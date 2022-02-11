@@ -21,7 +21,7 @@ enableEmoji = true
     weight = 1 
   [[menu.main]]
     name = "What I'm Reading"
-    url = "https://www.goodreads.com/user/show/140347998-becca-lynch"
+    url = "/books"
     weight = 1
   [[menu.main]]
     name = "Blog"

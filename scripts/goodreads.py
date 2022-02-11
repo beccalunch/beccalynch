@@ -123,7 +123,7 @@ def main():
         ''' + ">}}\n"
 
     previously_read = get_book_info(driver, userID)
-    out_file_text += "# Previously Read\n"
+    out_file_text += "\n# Previously Read\n"
     for b in previously_read:
         out_file_text += "{{<oldbooktile" + f'''
         title="{b['title']}"

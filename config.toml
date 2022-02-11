@@ -1,0 +1,29 @@
+baseURL = "https://beccalynch.com"
+languageCode = "en-us"
+title = "Becca Lynch"
+theme = "researcher"
+enableEmoji = true
+
+[params]
+  favicon = "favicon.ico"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume"
+    weight = 1 
+  [[menu.main]]
+    name = "What I'm Reading"
+    url = "https://www.goodreads.com/user/show/140347998-becca-lynch"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog"
+    weight = 1

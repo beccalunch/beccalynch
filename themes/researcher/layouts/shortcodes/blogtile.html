@@ -1,0 +1,12 @@
+<div id="blogtile" style="border-radius:25px;border: 2px solid #D3D3D3;padding: 10px; overflow: hidden;">
+
+    <b>{{ .Get "date" }}   -    <a href="{{ .Get "link" }}">{{ .Get "title" }}</a></b>
+    <div id = "chunk" style="padding: 1px;">
+        <div class="column">
+            {{ .Get "snippet"}}
+        </div>
+    </div>
+
+</div>
+<br>
+<br>

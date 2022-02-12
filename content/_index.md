@@ -8,7 +8,7 @@ title = "About"
 
 I am a Senior Data Scientist at [Duo Security](https://www.duo.com), where I've worked since 2018. My current research involves the [detection of fraudulent authentications.](https://duo.com/docs/trust-monitor)  
 
-I attended the University of Michigan, where I obtained a B.S. in Computer Science. While there, I also studied physics and music, made a pretty cool [radiological measurement system](https://journals.lww.com/health-physics/Abstract/2018/11000/A_Radiation_Weather_Station__Development_of_a.6.aspx), and had the oppotunity to teach [Computer Security](https://eecs388.org/).
+I attended the University of Michigan, where I obtained a B.S. in Computer Science. While there, I also studied physics and music, made a pretty cool [radiological measurement system](https://journals.lww.com/health-physics/Abstract/2018/11000/A_Radiation_Weather_Station__Development_of_a.6.aspx), and had the opportunity to teach [Computer Security](https://eecs388.org/).
 
 In December 2021, I completed a Master's in [Computer Science and Data Science](https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science-data-science) at the University of Illinois.
 

@@ -136,6 +136,9 @@ def main():
         ''' + ">}}\n"
     
 
+    out_file_text += '''
+    \n\n\n\nSee how this page works [here!](https://github.com/beccalunch/beccalynch/tree/main/scripts/books)
+    '''
     outFile = myFile = open(outPath, 'w') # or 'a' to add text instead of truncate
     myFile.write(out_file_text)
     myFile.close()

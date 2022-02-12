@@ -185,3 +185,10 @@
         rating="4"
         review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
         >}}
+
+    
+
+
+
+See how this page works [here!](https://github.com/beccalunch/beccalynch/tree/main/scripts/books)
+    

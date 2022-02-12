@@ -1,10 +1,5 @@
 # Blog
 {{< blogtile
-    title="Interactive Online Plotting with Pyodide & Plotly"
-    link="/blog/pyodide"
-    date="2.11.2022"
->}}
-{{< blogtile
     title="The Pleasure of Pointless Walks"
     link="https://beccalunch.substack.com/p/the-pleasures-of-pointless-walks?r=paxgo&utm_campaign=post&utm_medium=web"
     snippet="In the middle of our company’s holiday shutdown, I found myself going for a walk like I do most days. In an attempt to maximize my time, I was listening to an audiobook that promised to have the secrets to unlocking burnout and stress. In truth, so far, the book had done very little, other than detailing all the ways that stress is caused by the patriarchy (I’m sure it is) while ironically framing women’s stress almost entirely in the context of marriage and motherhood..."

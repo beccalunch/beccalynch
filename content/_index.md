@@ -4,7 +4,7 @@ title = "About"
 
 ## About Me
 
-{{< figure class="avatar" src="/avatar.jpg" >}}
+{{< figure class="avatar" src="img/avatar.jpg" >}}
 
 I am a Senior Data Scientist at [Duo Security](https://www.duo.com), where I've worked since 2018. My current research involves the [detection of fraudulent authentications.](https://duo.com/docs/trust-monitor)  
 

@@ -37,9 +37,9 @@
 ##### 2022 
 * _Near, Far, Wherever You Are: Geospatial Modeling for Anomaly Detection_, Cisco Data Science Summit
 ##### 2021
-* [_Where We're Going, We Don't Need Labels: Anomaly Detection for 2FA_](https://youtu.be/Kh9cKJGA5DM), DEFCON 29 AI Village
+* _Where We're Going, We Don't Need Labels: Anomaly Detection for 2FA_, [link](https://youtu.be/Kh9cKJGA5DM), DEFCON 29 AI Village
 ##### 2019
-* [_An Actionable Approach to Diversity and Retention_](Woke Hiring Won't Save Us: An Actionable Approach to Diversity Hiring and Retention), Black Hat USA
+* _An Actionable Approach to Diversity and Retention_ [link](https://www.youtube.com/watch?v=Te5ICgG1M78), Black Hat USA
 ##### 2018
-* [_A Radiation Weather Station: Development of a Continuous Monitoring System for the Collection, Analysis, and Display of Environmental Radiation Data_](https://pubmed.ncbi.nlm.nih.gov/30260849/), Health Physics Journal 
+* _A Radiation Weather Station: Development of a Continuous Monitoring System for the Collection, Analysis, and Display of Environmental Radiation Data_, [link](https://pubmed.ncbi.nlm.nih.gov/30260849/), Health Physics Journal 
 

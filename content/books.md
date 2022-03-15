@@ -1,34 +1,54 @@
 # Currently Reading
 
 {{<booktile
+        title="Watching You"
+        link="https://www.goodreads.com/book/show/38355282-watching-you"
+        author="Jewell, Lisa"
+        author_link="https://www.goodreads.com/author/show/93504.Lisa_Jewell"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545496322l/38355282._SY75_.jpg"
+        >}}
+{{<booktile
+        title="Fake AI"
+        link="https://www.goodreads.com/book/show/59824711-fake-ai"
+        author="Kaltheuner, Frederike"
+        author_link="https://www.goodreads.com/author/show/18580447.Frederike_Kaltheuner"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642096317l/59824711._SY75_.jpg"
+        >}}
+
+# Previously Read
+{{<oldbooktile
         title="The Maidens"
         link="https://www.goodreads.com/book/show/45300567-the-maidens"
         author="Michaelides, Alex"
         author_link="https://www.goodreads.com/author/show/17621440.Alex_Michaelides"
         img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608557750l/45300567._SY75_.jpg"
+        rating="4"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
         >}}
-{{<booktile
-        title="The Diet Myth: The Real Science Behind What We Eat"
-        link="https://www.goodreads.com/book/show/25525225-the-diet-myth"
-        author="Spector, Tim"
-        author_link="https://www.goodreads.com/author/show/1132349.Tim_Spector"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441957430l/25525225._SY75_.jpg"
-        >}}
-{{<booktile
-        title="Solutions and Other Problems"
-        link="https://www.goodreads.com/book/show/51323365-solutions-and-other-problems"
-        author="Brosh, Allie"
-        author_link="https://www.goodreads.com/author/show/6984726.Allie_Brosh"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593942262l/51323365._SY75_.jpg"
-        >}}
-
-# Previously Read
 {{<oldbooktile
         title="Anxious People"
         link="https://www.goodreads.com/book/show/53799686-anxious-people"
         author="Backman, Fredrik"
         author_link="https://www.goodreads.com/author/show/6485178.Fredrik_Backman"
         img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594234890l/53799686._SX50_.jpg"
+        rating="5"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="The Diet Myth: The Real Science Behind What We Eat"
+        link="https://www.goodreads.com/book/show/25525225-the-diet-myth"
+        author="Spector, Tim"
+        author_link="https://www.goodreads.com/author/show/1132349.Tim_Spector"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441957430l/25525225._SY75_.jpg"
+        rating="4"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="Solutions and Other Problems"
+        link="https://www.goodreads.com/book/show/51323365-solutions-and-other-problems"
+        author="Brosh, Allie"
+        author_link="https://www.goodreads.com/author/show/6984726.Allie_Brosh"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593942262l/51323365._SY75_.jpg"
         rating="5"
         review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
         >}}

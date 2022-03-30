@@ -1,27 +1,45 @@
 # Currently Reading
 
 {{<booktile
+        title="The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power"
+        link="https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism"
+        author="Zuboff, Shoshana"
+        author_link="https://www.goodreads.com/author/show/710768.Shoshana_Zuboff"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521733914l/26195941._SY75_.jpg"
+        >}}
+{{<booktile
         title="Watching You"
         link="https://www.goodreads.com/book/show/38355282-watching-you"
         author="Jewell, Lisa"
         author_link="https://www.goodreads.com/author/show/93504.Lisa_Jewell"
         img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545496322l/38355282._SY75_.jpg"
         >}}
-{{<booktile
-        title="Fake AI"
-        link="https://www.goodreads.com/book/show/59824711-fake-ai"
-        author="Kaltheuner, Frederike"
-        author_link="https://www.goodreads.com/author/show/18580447.Frederike_Kaltheuner"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642096317l/59824711._SY75_.jpg"
-        >}}
 
 # Previously Read
+{{<oldbooktile
+        title="The Turn of the Key"
+        link="https://www.goodreads.com/book/show/42080142-the-turn-of-the-key"
+        author="Ware, Ruth"
+        author_link="https://www.goodreads.com/author/show/9013543.Ruth_Ware"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548204800l/42080142._SY75_.jpg"
+        rating="3"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
 {{<oldbooktile
         title="The Maidens"
         link="https://www.goodreads.com/book/show/45300567-the-maidens"
         author="Michaelides, Alex"
         author_link="https://www.goodreads.com/author/show/17621440.Alex_Michaelides"
         img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608557750l/45300567._SY75_.jpg"
+        rating="4"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="Fake AI"
+        link="https://www.goodreads.com/book/show/59824711-fake-ai"
+        author="Kaltheuner, Frederike"
+        author_link="https://www.goodreads.com/author/show/18580447.Frederike_Kaltheuner"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642096317l/59824711._SY75_.jpg"
         rating="4"
         review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
         >}}

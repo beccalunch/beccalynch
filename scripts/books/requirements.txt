@@ -1,0 +1,4 @@
+regex
+bs4
+geckodriver_autoinstaller
+webdriver_manager

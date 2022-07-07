@@ -1,6 +1,20 @@
 # Currently Reading
 
 {{<booktile
+        title="Book Lovers"
+        link="https://www.goodreads.com/book/show/58690308-book-lovers"
+        author="Henry, Emily"
+        author_link="https://www.goodreads.com/author/show/13905555.Emily_Henry"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638867089l/58690308._SY75_.jpg"
+        >}}
+{{<booktile
+        title="Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience"
+        link="https://www.goodreads.com/book/show/58330567-atlas-of-the-heart"
+        author="Brown, Brené"
+        author_link="https://www.goodreads.com/author/show/162578.Bren_Brown"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630947399l/58330567._SX50_.jpg"
+        >}}
+{{<booktile
         title="The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power"
         link="https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism"
         author="Zuboff, Shoshana"
@@ -16,6 +30,24 @@
         >}}
 
 # Previously Read
+{{<oldbooktile
+        title="Where the Crawdads Sing"
+        link="https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing"
+        author="Owens, Delia"
+        author_link="https://www.goodreads.com/author/show/7043934.Delia_Owens"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582135294l/36809135._SY75_.jpg"
+        rating="4"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="The Last House Guest"
+        link="https://www.goodreads.com/book/show/42190273-the-last-house-guest"
+        author="Miranda, Megan"
+        author_link="https://www.goodreads.com/author/show/4417749.Megan_Miranda"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545518199l/42190273._SY75_.jpg"
+        rating="3"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
 {{<oldbooktile
         title="The Turn of the Key"
         link="https://www.goodreads.com/book/show/42080142-the-turn-of-the-key"
@@ -41,6 +73,15 @@
         author_link="https://www.goodreads.com/author/show/18580447.Frederike_Kaltheuner"
         img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642096317l/59824711._SY75_.jpg"
         rating="4"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="The Silent Patient"
+        link="https://www.goodreads.com/book/show/40097951-the-silent-patient"
+        author="Michaelides, Alex"
+        author_link="https://www.goodreads.com/author/show/17621440.Alex_Michaelides"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582759969l/40097951._SX50_.jpg"
+        rating="5"
         review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
         >}}
 {{<oldbooktile
@@ -192,7 +233,7 @@
         link="https://www.goodreads.com/book/show/40121378-atomic-habits"
         author="Clear, James"
         author_link="https://www.goodreads.com/author/show/7327369.James_Clear"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY75_.jpg"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378._SY75_.jpg"
         rating="5"
         review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
         >}}

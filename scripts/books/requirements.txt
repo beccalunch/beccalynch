@@ -1,4 +1,6 @@
+lxml
 regex
 bs4
 geckodriver_autoinstaller
+selenium
 webdriver_manager

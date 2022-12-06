@@ -1,18 +1,18 @@
 # Currently Reading
 
 {{<booktile
-        title="Book Lovers"
-        link="https://www.goodreads.com/book/show/58690308-book-lovers"
-        author="Henry, Emily"
-        author_link="https://www.goodreads.com/author/show/13905555.Emily_Henry"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638867089l/58690308._SY75_.jpg"
+        title="How to Keep House While Drowning: A Gentle Approach to Cleaning and Organizing"
+        link="https://www.goodreads.com/book/show/60139504-how-to-keep-house-while-drowning"
+        author="Davis, K.C."
+        author_link="https://www.goodreads.com/author/show/21551152.K_C_Davis"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642363232l/60139504._SX50_.jpg"
         >}}
 {{<booktile
-        title="Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience"
-        link="https://www.goodreads.com/book/show/58330567-atlas-of-the-heart"
-        author="Brown, Brené"
-        author_link="https://www.goodreads.com/author/show/162578.Bren_Brown"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630947399l/58330567._SX50_.jpg"
+        title="A Court of Thorns and Roses (A Court of Thorns and Roses, #1)"
+        link="https://www.goodreads.com/book/show/50659467-a-court-of-thorns-and-roses"
+        author="Maas, Sarah J."
+        author_link="https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620324329l/50659467._SY75_.jpg"
         >}}
 {{<booktile
         title="The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power"
@@ -21,15 +21,62 @@
         author_link="https://www.goodreads.com/author/show/710768.Shoshana_Zuboff"
         img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521733914l/26195941._SY75_.jpg"
         >}}
-{{<booktile
-        title="Watching You"
-        link="https://www.goodreads.com/book/show/38355282-watching-you"
-        author="Jewell, Lisa"
-        author_link="https://www.goodreads.com/author/show/93504.Lisa_Jewell"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545496322l/38355282._SY75_.jpg"
-        >}}
 
 # Previously Read
+{{<oldbooktile
+        title="Local Woman Missing"
+        link="https://www.goodreads.com/book/show/54737068-local-woman-missing"
+        author="Kubica, Mary"
+        author_link="https://www.goodreads.com/author/show/7392948.Mary_Kubica"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605828061l/54737068._SY75_.jpg"
+        rating="4"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="Profiles in Ignorance: How America's Politicians Got Dumb and Dumber"
+        link="https://www.goodreads.com/book/show/60321052-profiles-in-ignorance"
+        author="Borowitz, Andy"
+        author_link="https://www.goodreads.com/author/show/228695.Andy_Borowitz"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660755363l/60321052._SY75_.jpg"
+        rating="5"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="All Good People Here"
+        link="https://www.goodreads.com/book/show/60142750-all-good-people-here"
+        author="Flowers, Ashley"
+        author_link="https://www.goodreads.com/author/show/19830282.Ashley_Flowers"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642984407l/60142750._SY75_.jpg"
+        rating="3"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="I'm Glad My Mom Died"
+        link="https://www.goodreads.com/book/show/59364173-i-m-glad-my-mom-died"
+        author="McCurdy, Jennette"
+        author_link="https://www.goodreads.com/author/show/15457334.Jennette_McCurdy"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649286799l/59364173._SY75_.jpg"
+        rating="5"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="Book Lovers"
+        link="https://www.goodreads.com/book/show/58690308-book-lovers"
+        author="Henry, Emily"
+        author_link="https://www.goodreads.com/author/show/13905555.Emily_Henry"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638867089l/58690308._SY75_.jpg"
+        rating="5"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="Atlas of the Heart: Mapping Meaningful Connection and the Language of Human Experience"
+        link="https://www.goodreads.com/book/show/58330567-atlas-of-the-heart"
+        author="Brown, Brené"
+        author_link="https://www.goodreads.com/author/show/162578.Bren_Brown"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630947399l/58330567._SX50_.jpg"
+        rating="3"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
 {{<oldbooktile
         title="Where the Crawdads Sing"
         link="https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing"
@@ -58,6 +105,15 @@
         review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
         >}}
 {{<oldbooktile
+        title="Watching You"
+        link="https://www.goodreads.com/book/show/38355282-watching-you"
+        author="Jewell, Lisa"
+        author_link="https://www.goodreads.com/author/show/93504.Lisa_Jewell"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545496322l/38355282._SY75_.jpg"
+        rating="3"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
         title="The Maidens"
         link="https://www.goodreads.com/book/show/45300567-the-maidens"
         author="Michaelides, Alex"
@@ -80,7 +136,7 @@
         link="https://www.goodreads.com/book/show/40097951-the-silent-patient"
         author="Michaelides, Alex"
         author_link="https://www.goodreads.com/author/show/17621440.Alex_Michaelides"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582759969l/40097951._SX50_.jpg"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668782119l/40097951._SY75_.jpg"
         rating="5"
         review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
         >}}
@@ -235,33 +291,6 @@
         author_link="https://www.goodreads.com/author/show/7327369.James_Clear"
         img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378._SY75_.jpg"
         rating="5"
-        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
-        >}}
-{{<oldbooktile
-        title="Disappearing Earth"
-        link="https://www.goodreads.com/book/show/34563821-disappearing-earth"
-        author="Phillips, Julia"
-        author_link="https://www.goodreads.com/author/show/18163138.Julia_Phillips"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541103539l/34563821._SY75_.jpg"
-        rating="5"
-        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
-        >}}
-{{<oldbooktile
-        title="Conviction (Anna and Fin, #1)"
-        link="https://www.goodreads.com/book/show/42283333-conviction"
-        author="Mina, Denise"
-        author_link="https://www.goodreads.com/author/show/54069.Denise_Mina"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559869724l/42283333._SY75_.jpg"
-        rating="3"
-        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
-        >}}
-{{<oldbooktile
-        title="Period Power: Harness Your Hormones and Get Your Cycle Working For You"
-        link="https://www.goodreads.com/book/show/40653191-period-power"
-        author="Hill, Maisie"
-        author_link="https://www.goodreads.com/author/show/18157585.Maisie_Hill"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545374940l/40653191._SY75_.jpg"
-        rating="4"
         review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
         >}}
 

@@ -1,18 +1,11 @@
 # Currently Reading
 
 {{<booktile
-        title="How to Keep House While Drowning: A Gentle Approach to Cleaning and Organizing"
-        link="https://www.goodreads.com/book/show/60139504-how-to-keep-house-while-drowning"
-        author="Davis, K.C."
-        author_link="https://www.goodreads.com/author/show/21551152.K_C_Davis"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642363232l/60139504._SX50_.jpg"
-        >}}
-{{<booktile
-        title="A Court of Thorns and Roses (A Court of Thorns and Roses, #1)"
-        link="https://www.goodreads.com/book/show/50659467-a-court-of-thorns-and-roses"
+        title="A Court of Frost and Starlight (A Court of Thorns and Roses, #3.1)"
+        link="https://www.goodreads.com/book/show/50659471-a-court-of-frost-and-starlight"
         author="Maas, Sarah J."
         author_link="https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620324329l/50659467._SY75_.jpg"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585622963l/50659471._SX50_.jpg"
         >}}
 {{<booktile
         title="The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power"
@@ -21,8 +14,69 @@
         author_link="https://www.goodreads.com/author/show/710768.Shoshana_Zuboff"
         img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521733914l/26195941._SY75_.jpg"
         >}}
+{{<booktile
+        title="Invisible Women: Data Bias in a World Designed for Men"
+        link="https://www.goodreads.com/book/show/41104077-invisible-women"
+        author="Criado Pérez, Caroline"
+        author_link="https://www.goodreads.com/author/show/19637490.Caroline_Criado_P_rez"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617113740l/41104077._SY75_.jpg"
+        >}}
 
 # Previously Read
+{{<oldbooktile
+        title="All Things Aside: Absolutely Correct Opinions"
+        link="https://www.goodreads.com/book/show/60310740-all-things-aside"
+        author="Shlesinger, Iliza"
+        author_link="https://www.goodreads.com/author/show/15598353.Iliza_Shlesinger"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664029331l/60310740._SY75_.jpg"
+        rating="4"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers"
+        link="https://www.goodreads.com/book/show/41436213-sandworm"
+        author="Greenberg, Andy"
+        author_link="https://www.goodreads.com/author/show/5810161.Andy_Greenberg"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567555830l/41436213._SY75_.jpg"
+        rating="4"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="Spare"
+        link="https://www.goodreads.com/book/show/62296528-spare"
+        author="Prince Harry"
+        author_link="https://www.goodreads.com/author/show/7848512.Prince_Harry"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673458354l/62296528._SY75_.jpg"
+        rating="4"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="A Court of Wings and Ruin (A Court of Thorns and Roses, #3)"
+        link="https://www.goodreads.com/book/show/50659472-a-court-of-wings-and-ruin"
+        author="Maas, Sarah J."
+        author_link="https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585623092l/50659472._SX50_.jpg"
+        rating="5"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="A Court of Mist and Fury (A Court of Thorns and Roses, #2)"
+        link="https://www.goodreads.com/book/show/50659468-a-court-of-mist-and-fury"
+        author="Maas, Sarah J."
+        author_link="https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620325671l/50659468._SY75_.jpg"
+        rating="5"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="How to Keep House While Drowning: A Gentle Approach to Cleaning and Organizing"
+        link="https://www.goodreads.com/book/show/60139504-how-to-keep-house-while-drowning"
+        author="Davis, K.C."
+        author_link="https://www.goodreads.com/author/show/21551152.K_C_Davis"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1642363232l/60139504._SX50_.jpg"
+        rating="5"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
 {{<oldbooktile
         title="Local Woman Missing"
         link="https://www.goodreads.com/book/show/54737068-local-woman-missing"
@@ -57,6 +111,15 @@
         author_link="https://www.goodreads.com/author/show/15457334.Jennette_McCurdy"
         img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649286799l/59364173._SY75_.jpg"
         rating="5"
+        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
+        >}}
+{{<oldbooktile
+        title="A Court of Thorns and Roses (A Court of Thorns and Roses, #1)"
+        link="https://www.goodreads.com/book/show/50659467-a-court-of-thorns-and-roses"
+        author="Maas, Sarah J."
+        author_link="https://www.goodreads.com/author/show/3433047.Sarah_J_Maas"
+        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620324329l/50659467._SY75_.jpg"
+        rating="4"
         review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
         >}}
 {{<oldbooktile
@@ -228,69 +291,6 @@
         author_link="https://www.goodreads.com/author/show/3517051.Emily_Nagoski"
         img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551216612l/42397849._SY75_.jpg"
         rating="2"
-        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
-        >}}
-{{<oldbooktile
-        title="God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning"
-        link="https://www.goodreads.com/book/show/56097578-god-human-animal-machine"
-        author="O'Gieblyn, Meghan"
-        author_link="https://www.goodreads.com/author/show/17979517.Meghan_O_Gieblyn"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611107182l/56097578._SY75_.jpg"
-        rating="3"
-        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
-        >}}
-{{<oldbooktile
-        title="In a Dark, Dark Wood"
-        link="https://www.goodreads.com/book/show/27834600-in-a-dark-dark-wood"
-        author="Ware, Ruth"
-        author_link="https://www.goodreads.com/author/show/9013543.Ruth_Ware"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523543089l/27834600._SY75_.jpg"
-        rating="4"
-        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
-        >}}
-{{<oldbooktile
-        title="The Woman in Cabin 10"
-        link="https://www.goodreads.com/book/show/28187230-the-woman-in-cabin-10"
-        author="Ware, Ruth"
-        author_link="https://www.goodreads.com/author/show/9013543.Ruth_Ware"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465878007l/28187230._SY75_.jpg"
-        rating="4"
-        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
-        >}}
-{{<oldbooktile
-        title="The Only Woman in the Room"
-        link="https://www.goodreads.com/book/show/39971465-the-only-woman-in-the-room"
-        author="Benedict, Marie"
-        author_link="https://www.goodreads.com/author/show/14815127.Marie_Benedict"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529420612l/39971465._SY75_.jpg"
-        rating="4"
-        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
-        >}}
-{{<oldbooktile
-        title="People We Meet on Vacation"
-        link="https://www.goodreads.com/book/show/54985743-people-we-meet-on-vacation"
-        author="Henry, Emily"
-        author_link="https://www.goodreads.com/author/show/13905555.Emily_Henry"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618913179l/54985743._SX50_.jpg"
-        rating="5"
-        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
-        >}}
-{{<oldbooktile
-        title="Range: Why Generalists Triumph in a Specialized World"
-        link="https://www.goodreads.com/book/show/41795733-range"
-        author="Epstein, David"
-        author_link="https://www.goodreads.com/author/show/7164089.David_Epstein"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550048292l/41795733._SY75_.jpg"
-        rating="5"
-        review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
-        >}}
-{{<oldbooktile
-        title="Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
-        link="https://www.goodreads.com/book/show/40121378-atomic-habits"
-        author="Clear, James"
-        author_link="https://www.goodreads.com/author/show/7327369.James_Clear"
-        img_src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378._SY75_.jpg"
-        rating="5"
         review_link="https://www.goodreads.com/review/list/140347998-becca-lynch?shelf=read"
         >}}
 

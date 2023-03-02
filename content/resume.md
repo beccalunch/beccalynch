@@ -35,8 +35,7 @@
 
 # Talks and Publications
 ##### 2023
-* _Keep Your Enemies Closer: Understanding Reverse-Proxy 2FA Hijacking via Large-Scale Internal Red Teaming , Cisco Data Science Summit
-_
+* _Keep Your Enemies Closer: Understanding Reverse-Proxy 2FA Hijacking via Large-Scale Internal Red Teaming_ , Cisco Data Science Summit
 ##### 2022 
 * _Enhancing 2FA with IP-based Geolocation Without Blocking All Your Users_, CAMLIS (Conference on Applied Machine Learning for Information Security)
 * _Near, Far, Wherever You Are: Geospatial Modeling for Anomaly Detection_, Cisco Data Science Summit

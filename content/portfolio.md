@@ -3,5 +3,5 @@
 
 ## Visual Content
 - [WebAuthn and Why it Works](/webauthn)
-- [Public Key Cryptographer](/rsa)
+- [Public Key Cryptography](/rsa)
 - [Counting in Binary](/binary)

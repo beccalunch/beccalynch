@@ -17,27 +17,30 @@ $y-medium: 1.2rem;
     }
 }
 %link-dark {
-    color: $black;
+    color: $neon-pink;
     text-decoration: none;
     & * {
-        color: $black;
+        color: $neon-pink;
     }
     &:hover {
-        color: $black;
+        color: $neon-pink;
         text-decoration: underline;
     }
 }
 %table-cell {
-    border: 1px solid #cccccc;
+    border: 1px solid $neon-pink;
     padding: 6px 12px;
     text-align: left;
 }
 
 // Style
 * {
-    color: $black;
+    color: $neon-pink;
     font-family: "Inconsolata";
     line-height: 1.2;
+}
+html, body {
+    background-color: $black;
 }
 .container {
     max-width: $max-width;
@@ -45,6 +48,11 @@ $y-medium: 1.2rem;
 .navbar-brand {
     @extend %link-dark;
     font-size: 2rem;
+    &.ascii-art-title {
+        pre {
+            color: white;
+        }
+    }
 }
 .nav-link {
     @extend %link-default;
@@ -60,6 +68,7 @@ $y-medium: 1.2rem;
         font-size: medium;
         font-weight: bold;
         margin: $y-medium 0 $y-small 0;
+        color: $light-pink;
     }
     @for $i from 1 through 4 {
         h#{$i} {
@@ -112,19 +121,19 @@ $y-medium: 1.2rem;
             @extend %table-cell;
         }
         & tr:nth-child(2n) {
-            background-color: #f8f8f8;
+            background-color: #1a1a1a;
         }
     }
     blockquote {
-        border-left: 4px solid;
+        border-left: 4px solid $neon-pink;
         font-style: italic;
         margin: $y-medium 0;
         padding: 8px 8px;
     }
     code {
-        color: $black;
-        background-color: #f8f8f8;
-        border: 1px solid #cccccc;
+        color: $neon-pink;
+        background-color: #1a1a1a;
+        border: 1px solid $neon-pink;
         border-radius: 10%;
         padding: 0px 4px;
     }

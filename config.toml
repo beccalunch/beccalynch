@@ -7,23 +7,11 @@ enableEmoji = true
 [params]
   favicon = "favicon.ico"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [permalinks]
   "/" = "/:filename"
 
-[menu]
-  [[menu.main]]
-    name = "About"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Resume"
-    url = "/resume"
-    weight = 1 
-  [[menu.main]]
-    name = "What I'm Reading"
-    url = "/books"
-    weight = 1
-  [[menu.main]]
-    name = "Blog"
-    url = "https://beccalunch.substack.com/"
-    weight = 1

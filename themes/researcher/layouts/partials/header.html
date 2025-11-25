@@ -1,6 +1,22 @@
 <div class="container mt-5">
     <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
-        <a class="navbar-brand mx-0 mr-sm-auto" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        <a class="navbar-brand mx-0 mr-sm-auto ascii-art-title" href="{{ .Site.BaseURL }}">
+            <pre style="margin: 0; line-height: 1.1; font-size: 0.6rem;">
+██████╗ ███████╗ ██████╗ ██████╗ █████╗
+██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗
+██████╔╝█████╗  ██║     ██║     ███████║
+██╔══██╗██╔══╝  ██║     ██║     ██╔══██║
+██████╔╝███████╗╚██████╗╚██████╗██║  ██║
+╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝╚═╝  ╚═╝
+
+██╗  ██╗   ██╗███╗   ██╗ ██████╗██╗  ██╗
+██║  ╚██╗ ██╔╝████╗  ██║██╔════╝██║  ██║
+██║   ╚████╔╝ ██╔██╗ ██║██║     ███████║
+██║    ╚██╔╝  ██║╚██╗██║██║     ██╔══██║
+███████╗██║   ██║ ╚████║╚██████╗██║  ██║
+╚══════╝╚═╝   ╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝
+            </pre>
+        </a>
         <div class="navbar-nav flex-row flex-wrap justify-content-center">
             {{ with .Site.Menus.main }}
                 {{ $navbar_len := len . }}

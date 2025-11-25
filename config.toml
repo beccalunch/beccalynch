@@ -15,3 +15,8 @@ enableEmoji = true
 [permalinks]
   "/" = "/:filename"
 
+[[menu.main]]
+  name = "Resume"
+  url = "/resume"
+  weight = 1
+
